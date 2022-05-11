@@ -1,0 +1,1 @@
+f = function(x) ifelse(abs(x)<1e-12,1,sin(pi*x)/(pi*x))
